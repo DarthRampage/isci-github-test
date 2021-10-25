@@ -10,6 +10,6 @@ The primary misinterpretation that the article makes is suggesting that media an
 
 **References:**
 
-Everything Climate, 2021. Ocean acidification. Everything Climate. 
+Everything Climate, 2021. Ocean acidification. *Everything Climate*. 
 
 Available at: https://everythingclimate.org/ocean-acidification/ [Accessed October 18, 2021].
